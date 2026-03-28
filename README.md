@@ -12,7 +12,8 @@ to enter Master's program in Data Science.
 - **Learning**: Neural Networks · NLP · Big Data
 
 ## Projects
-> Coming soon — building my portfolio step by step
+## Projects
+- [E-Commerce Sales Analysis](https://github.com/sino-safarov/ecommerce-sql-analysis) — SQL analysis of 100k orders, PostgreSQL
 
 ## Contact
 - 📧 Email: sinosafarov555@gmail.com
