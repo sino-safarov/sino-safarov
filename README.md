@@ -1,6 +1,6 @@
 # Sino Safarov
 
-Aspiring Data Analyst based in Prague 🇨🇿
+Aspiring Data Analyst based in Prague, Czech Republic
 
 Currently studying Data Analytics & Machine Learning
 to enter Master's program in Data Science.
