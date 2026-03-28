@@ -1,16 +1,19 @@
-## Hi there 👋
+# Sino Safarov
 
-<!--
-**sino-safarov/sino-safarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst based in Prague 🇨🇿
 
-Here are some ideas to get you started:
+Currently studying Data Analytics & Machine Learning
+to enter Master's program in Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Data**: SQL · PostgreSQL · Python · Pandas
+- **ML**: Scikit-learn · NumPy · Matplotlib
+- **BI**: Power BI · Tableau
+- **Learning**: Neural Networks · NLP · Big Data
+
+## Projects
+> Coming soon — building my portfolio step by step
+
+## Contact
+- 📧 Email: sinosafarov555@gmail.com
+
